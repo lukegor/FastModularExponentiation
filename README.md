@@ -34,10 +34,16 @@ where:
 ## How to Run
 
 1. Clone the repository.
-2. Open the solution in Visual Studio or any C# IDE.
-3. Compile and run the program.
-4. Input the base number, exponent, and modulus when prompted.
-5. View the detailed output and final result on the console.
+2. Open a terminal or command prompt.
+3. Navigate to the project directory (`FastModularExponentiation`)
+4. Compile the program using the following command
+```
+dotnet build
+```
+5. Run the program using the following command:
+```
+dotnet run
+```
 
 ## Example Usage
 
@@ -55,6 +61,15 @@ Enter modulo: 1000
 
 Result: 24
 ```
+
+## Unit tests
+
+Unit tests are included to validate the correctness of the algorithm. These tests cover various scenarios to ensure accurate results for different inputs.
+Follow these steps to execute the unit tests:
+
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing the solution file (`FastModularExponentiation`).
+3. Run the command `dotnet test`.
 
 ## License
 
