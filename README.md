@@ -56,6 +56,10 @@ Enter modulo: 1000
 Result: 24
 ```
 
+## Unit tests
+
+Unit tests are included to validate the correctness of the algorithm. These tests cover various scenarios to ensure accurate results for different inputs. 
+
 ## License
 
 This project is licensed under the [The MIT License](https://opensource.org/license/mit). See the LICENSE file for more details.
