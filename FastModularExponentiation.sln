@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastModularExponentiationTest", "FastModularExponentiationTest\FastModularExponentiationTest.csproj", "{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastModularExponentiation", "FastModularExponentiation\FastModularExponentiation.csproj", "{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD41D912-3746-4990-86DE-897E529DA4AC}
+	EndGlobalSection
+EndGlobal
