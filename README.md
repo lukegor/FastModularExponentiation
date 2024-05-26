@@ -1,6 +1,6 @@
 # Fast Modular Exponentiation
 
-This repository contains a C# program for calculating the result of raising a base number to an exponent and then taking the modulus. The algorithm used is known as exponentiation by squaring, which is efficient and widely used in cryptographic applications.
+This project is a C# program for calculating <b>fast modular exponentiation</b>, i.e. the result of raising a base number to an exponent and then taking the modulus, as in $a^b \mod n$. The algorithm is efficient and widely used in cryptographic applications.
 
 ## Technologies
 [<img align="left" alt="Csharp" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>][csharp]
