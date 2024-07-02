@@ -13,6 +13,10 @@
             int result = ModularExponentiation(y, exp, mod);
             Console.WriteLine();
             Console.WriteLine($"Result: {result}");
+
+            Console.WriteLine();
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadLine();
         }
 
         static int ReadInteger(string prompt)

@@ -10,6 +10,7 @@
 	  <Authors>Łukasz Górski</Authors>
 	  <Copyright>Copyright © 2024 Łukasz Górski</Copyright>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <RepositoryUrl>https://github.com/lukegor/FastModularExponentiation</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

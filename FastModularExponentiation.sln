@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastModularExponentiation.Test", "FastModularExponentiationTest\FastModularExponentiation.Test.csproj", "{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastModularExponentiation.Tests", "FastModularExponentiationTest\FastModularExponentiation.Tests.csproj", "{2ACD9A23-1C7C-4918-B877-6C749A46CA4B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastModularExponentiation", "FastModularExponentiation\FastModularExponentiation.csproj", "{E36D9AAA-5933-4198-BA6E-8B3BDACB41E6}"
 EndProject
